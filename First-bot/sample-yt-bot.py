@@ -1,4 +1,4 @@
-from .botConfig import get_config_section
+from botConfig import get_config_section
 import discord
 
 config_dict = get_config_section()
