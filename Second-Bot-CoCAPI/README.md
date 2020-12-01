@@ -1,4 +1,6 @@
-
+| Discord  Example      | Code Snippet      |
+|------------|-------------|
+| <img src="Capture.PNG" width="450"> | <img src="Code.PNG" width="550"> |
 
 # Usages:
    A Discord bot that uses the [discord.py](https://discordpy.readthedocs.io/en/latest/) & [coc.py](https://pypi.org/project/coc.py/) modules.
